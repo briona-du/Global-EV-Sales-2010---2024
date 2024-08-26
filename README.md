@@ -1,4 +1,3 @@
-# Global-EV-Sales-2010---2024
 <h1>Global EV Dataset Analysis</h1>
 
 <p>This repository contains a Jupyter notebook (<em>Global EV Sales Analysis.ipynb</em>) that performs an exploratory data analysis (EDA) on a dataset related to global electric vehicle (EV) sales, stocks, and trends over the years 2010-2024, along with sales projections from 2024-2035. The analysis explores EV sales and stock trends globally, including Battery Electric Vehicles (BEVs), Fuel Cell Electric Vehicles (FCEVs), and Plug-in Hybrid Electric Vehicles (PHEVs). It also examines the growth of EV sales and the distribution of different powertrain types across various regions.</p>
